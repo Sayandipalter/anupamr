@@ -2,12 +2,12 @@
 
 .mid{
     margin-top: 0%;
-    background-color: #fdf0d5;
+    background-color: #03045e;
    
     
 }
 body{
-    background-color:#fdf0d5 ;
+    background-color:#03045e ;
 }
 .container2{
     margin-top: 80px;
@@ -15,7 +15,7 @@ body{
 }
 .container1{
     height: 50vh;
-    background-color: #fdf0d5;
+    background-color: #03045e;
     display: flex;
     width: 80%;
     margin: 23px auto;
@@ -27,7 +27,7 @@ body{
     position: sticky;
     height:123px;
     background-color: black;
-    color: rgb(0, 0, 0);
+    color: ffffff;
     bottom: 0;
     display: flex;
     justify-content: center;
@@ -47,9 +47,9 @@ body{
 .songItem{
     height: 50px;
     display:flex;
-    background-color:#fac65d ;
+    background-color:#03045e ;
     width: 600px;
-    color: black;
+    color: f8f9fa;
     margin: 12px 0;
     justify-content: space-between;
     align-items: center;
