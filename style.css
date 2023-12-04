@@ -2,12 +2,12 @@
 
 .mid{
     margin-top: 0%;
-    background-color: #03045e;
+    background-color: #00b4d8;
    
     
 }
 body{
-    background-color:#03045e ;
+    background-color:#00b4d8 ;
 }
 .container2{
     margin-top: 80px;
@@ -15,7 +15,7 @@ body{
 }
 .container1{
     height: 50vh;
-    background-color: #03045e;
+    background-color: #00b4d8;
     display: flex;
     width: 80%;
     margin: 23px auto;
@@ -27,7 +27,7 @@ body{
     position: sticky;
     height:123px;
     background-color: black;
-    color: ffffff;
+    color: rgb(0, 0, 0);
     bottom: 0;
     display: flex;
     justify-content: center;
@@ -49,7 +49,7 @@ body{
     display:flex;
     background-color:#03045e ;
     width: 600px;
-    color: f8f9fa;
+    color: #edede9;
     margin: 12px 0;
     justify-content: space-between;
     align-items: center;
